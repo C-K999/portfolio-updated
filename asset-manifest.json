@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/C-K999/portfolio-updated/static/css/main.de5a64ff.css",
+    "main.js": "/C-K999/portfolio-updated/static/js/main.927e2f2a.js",
+    "static/media/demo_tdc.gif": "/C-K999/portfolio-updated/static/media/demo_tdc.490e4f544a4c4652cf85.gif",
+    "static/media/demo_sw.gif": "/C-K999/portfolio-updated/static/media/demo_sw.6b70f97b533857be5735.gif",
+    "static/media/skyline.png": "/C-K999/portfolio-updated/static/media/skyline.0f4c25cf379932e3739a.png",
+    "static/media/module-1-demo.png": "/C-K999/portfolio-updated/static/media/module-1-demo.6fbad7058f42c1fb76dc.png",
+    "static/media/r-ver1.pdf": "/C-K999/portfolio-updated/static/media/r-ver1.0aa45b85b37ed9003dcc.pdf",
+    "static/media/CK.png": "/C-K999/portfolio-updated/static/media/CK.5bb19804e1a7dc1bfe7f.png",
+    "static/media/eyecatcher.png": "/C-K999/portfolio-updated/static/media/eyecatcher.24c3ce5c46536d20d9db.png",
+    "static/media/1517504613471.png": "/C-K999/portfolio-updated/static/media/1517504613471.c53971126d35599aeea1.png",
+    "index.html": "/C-K999/portfolio-updated/index.html",
+    "main.de5a64ff.css.map": "/C-K999/portfolio-updated/static/css/main.de5a64ff.css.map",
+    "main.927e2f2a.js.map": "/C-K999/portfolio-updated/static/js/main.927e2f2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de5a64ff.css",
+    "static/js/main.927e2f2a.js"
+  ]
+}
