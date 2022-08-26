@@ -1,7 +1,8 @@
 {
-  "name": "00-practice-app",
+  "name": "CK-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/C-K999/portfolio-updated",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
@@ -9,12 +10,15 @@
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
     "dotenv": "^16.0.1",
+    "gh-pages": "^4.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

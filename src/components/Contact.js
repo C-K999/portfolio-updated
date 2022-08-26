@@ -42,7 +42,7 @@ function Contact() {
 
     // Check to see if the email is not valid or if the name is empty
     if (!validateEmail(email) || !name) {
-      setErrorMessage("Email or name is invalid");
+      setErrorMessage("Please enter a valid name and email.");
       // Exit out of this code block if something is wrong so that the user can correct it
       return;
     }
