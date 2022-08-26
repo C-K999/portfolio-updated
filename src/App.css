@@ -16,8 +16,6 @@ body {
 
 /* Header formatting */
 header {
-    top:0;
-    position: top;
     padding: 20px;
     font-family: 'Trebutchet MS','Open Sans', 'Roboto Slab', 'Monsterrat', Arial, sans-serif;
     background-color: var(--dark-brown);

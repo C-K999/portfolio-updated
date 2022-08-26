@@ -1,4 +1,4 @@
-import CK_suit from "../images/1517504613471.png";
+import React from "react";
 
 function Footer() {
   return (
